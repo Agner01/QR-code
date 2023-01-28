@@ -18,7 +18,7 @@ Este desafio foi otimo para aprender sobre CSS! Ótima forma para treinar HTML e
 
 ## 💻 Projeto
 Esta é uma solução para o [QR code component challenge on Frontend Mentor]
-- [Visite o projeto online] ()
+- [Visite o projeto online] (https://agner01.github.io/QR-code/)
 
 ## Construído com
 
